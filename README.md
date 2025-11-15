@@ -55,7 +55,7 @@ This project requires API keys for:
 - **Tavily Search** – itinerary web search  
 - **SerpApi** – real-time flight & hotel search  
 
-Generate or obtain keys from the respective provider pages (links redacted).
+Get keys from https://serpapi.com , https://aistudio.google.com/ , and https://tavily.com/
 
 ### 4. Set Environment Variables
 `main.py` will prompt for missing keys interactively. For a persistent setup, create a `.env` file:
