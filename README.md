@@ -1,5 +1,12 @@
 # LangGraph Multi-Agent Travel Agent
 
+## Demo
+
+<video width="100%" controls>
+  <source src="https://github.com/BoydBLever/LangGraph-Travel-Agent/releases/download/v0.1.0/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Project Overview
 This project implements a **multi-agent travel planning system** using **LangGraph**, designed to assist users with various travel-related queries, including flight bookings, hotel searches, and itinerary planning. It leverages specialized agents (Itinerary, Flight, Hotel) and an intelligent routing mechanism to direct user requests to the most appropriate agent.
 
@@ -85,5 +92,3 @@ You will then see:
 ## To exit:
 
 quit
-
-
